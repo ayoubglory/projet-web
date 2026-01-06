@@ -168,4 +168,6 @@ L'application utilise un système de routage basé sur les hash (#) :
 ## résumée
 
 Application développée pour un projet de gestion de restaurant.
+ ## lien du site
+ https://ayoubglory.github.io/projet-web/
 
